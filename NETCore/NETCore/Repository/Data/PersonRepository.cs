@@ -154,6 +154,7 @@ namespace NETCore.Repository.Data
 
         public int Login(PersonVM personVM)
         {
+            //ini gua ubah
             //return 100 = email ga ketemu
             //return 200 = password salah
             //return 1 = login berhasil
